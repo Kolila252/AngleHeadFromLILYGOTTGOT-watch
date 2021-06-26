@@ -1,0 +1,1 @@
+โหลด https://github.com/Xinyuan-LilyGO/TTGO-T-Watch เพื่อใช้งาน
