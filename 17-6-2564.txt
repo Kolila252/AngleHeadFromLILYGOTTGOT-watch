@@ -1,0 +1,54 @@
+//**************Start***************
+CenterX: 0|| CenterY: 5|| Mode: 45
+17/6/2564 || 13:20:18|| AngleX: 0, AngleY: 5 
+17/6/2564 || 13:20:19|| AngleX: -2, AngleY: 7 
+17/6/2564 || 13:20:20|| AngleX: -2, AngleY: 7 
+17/6/2564 || 13:20:21|| AngleX: -2, AngleY: 7 
+17/6/2564 || 13:20:22|| AngleX: -2, AngleY: 7 
+17/6/2564 || 13:20:23|| AngleX: 9, AngleY: -1 
+17/6/2564 || 13:20:24|| AngleX: 49, AngleY: -12 Warning
+17/6/2564 || 13:20:26|| AngleX: 50, AngleY: -6 Warning
+17/6/2564 || 13:20:27|| AngleX: 40, AngleY: -5 
+17/6/2564 || 13:20:28|| AngleX: -23, AngleY: 10 
+17/6/2564 || 13:20:29|| AngleX: -41, AngleY: 26 
+17/6/2564 || 13:20:30|| AngleX: -44, AngleY: 32 
+17/6/2564 || 13:20:31|| AngleX: 1, AngleY: 0 
+17/6/2564 || 13:20:32|| AngleX: 44, AngleY: -16 
+17/6/2564 || 13:20:33|| AngleX: 18, AngleY: 4 
+17/6/2564 || 13:20:34|| AngleX: 28, AngleY: -46 Warning
+17/6/2564 || 13:20:35|| AngleX: 27, AngleY: -10 
+17/6/2564 || 13:20:36|| AngleX: -4, AngleY: 5 
+17/6/2564 || 13:20:37|| AngleX: -5, AngleY: 5 
+17/6/2564 || 13:20:38|| AngleX: -6, AngleY: 6 
+17/6/2564 || 13:20:39|| AngleX: -6, AngleY: 7 
+17/6/2564 || 13:20:40|| AngleX: -7, AngleY: 7 
+17/6/2564 || 13:20:41|| AngleX: -7, AngleY: 7 
+17/6/2564 || 13:20:42|| AngleX: -10, AngleY: 6 
+17/6/2564 || 13:20:43|| AngleX: -5, AngleY: 7 
+17/6/2564 || 13:20:44|| AngleX: -5, AngleY: 7 
+17/6/2564 || 13:20:45|| AngleX: -5, AngleY: 7 
+17/6/2564 || 13:20:46|| AngleX: -4, AngleY: 7 
+17/6/2564 || 13:20:48|| AngleX: -4, AngleY: 7 
+17/6/2564 || 13:20:49|| AngleX: -5, AngleY: 7 
+17/6/2564 || 13:20:50|| AngleX: -6, AngleY: 7 
+17/6/2564 || 13:20:51|| AngleX: -6, AngleY: 7 
+17/6/2564 || 13:20:52|| AngleX: -6, AngleY: 7 
+17/6/2564 || 13:20:54|| AngleX: -6, AngleY: 7 
+17/6/2564 || 13:20:55|| AngleX: -6, AngleY: 7 
+17/6/2564 || 13:20:56|| AngleX: -6, AngleY: 7 
+17/6/2564 || 13:20:57|| AngleX: 38, AngleY: 11 
+17/6/2564 || 13:20:58|| AngleX: 56, AngleY: 7 Warning
+17/6/2564 || 13:20:59|| AngleX: -4, AngleY: 6 
+17/6/2564 || 13:21:1|| AngleX: -70, AngleY: -2 Warning
+17/6/2564 || 13:21:2|| AngleX: -3, AngleY: 11 
+17/6/2564 || 13:21:3|| AngleX: -13, AngleY: -77 Warning
+17/6/2564 || 13:21:4|| AngleX: -15, AngleY: 5 
+17/6/2564 || 13:21:5|| AngleX: -9, AngleY: 66 Warning
+17/6/2564 || 13:21:6|| AngleX: -8, AngleY: 18 
+17/6/2564 || 13:21:8|| AngleX: 4, AngleY: 7 
+17/6/2564 || 13:21:9|| AngleX: -13, AngleY: 13 
+17/6/2564 || 13:21:10|| AngleX: -10, AngleY: 17 
+17/6/2564 || 13:21:11|| AngleX: 0, AngleY: 1 
+17/6/2564 || 13:21:12|| AngleX: 18, AngleY: -46 Warning
+17/6/2564 || 13:21:13|| AngleX: 2, AngleY: 5 
+17/6/2564 || 13:21:15|| AngleX: -2, AngleY: 7 
